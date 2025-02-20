@@ -7,14 +7,14 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
 
 
-<p align="left"> <a href="https://twitter.com/hritikr36858585" target="blank"><img src="https://img.shields.io/twitter/follow/hritikr36858585?logo=twitter&style=for-the-badge" alt="hritikr36858585" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nebofficial" target="blank"><img src="https://img.shields.io/twitter/follow/nebofficial?logo=twitter&style=for-the-badge" alt="nebofficial" /></a> </p>
 
 - 📫 How to reach me **nebofficial0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nebofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nebofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/hritikr36858585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hritikr36858585" height="30" width="40" /></a>
+<a href="https://twitter.com/nebofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nebofficial" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hritik-raj-8804hr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hritik-raj-8804hr/" height="30" width="40" /></a>
 </p>
 
