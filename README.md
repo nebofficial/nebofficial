@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/k_harinarayan" target="blank"><img src="https://img.shields.io/twitter/follow/k_harinarayan?logo=twitter&style=for-the-badge" alt="k_harinarayan" /></a> </p>
 
 - 🔭 I’m currently working on [NEB Official App](https://file.nebofficial.com/)
+-  🔭 I’m currently working on [School Management System with auto Sync cloud/Sql server Desktop Software ]
 
 - 🌱 I’m currently learning **Mean and Mern FullStack**
 
