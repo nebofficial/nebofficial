@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **codecraftnepal.com**
 
-- 📄 Know about my experiences [https://codecraftnepal.com/portfolio](https://codecraftnepal.com/portfolio)
+- 📄 Know about my experiences [My Portfolio](https://harinarayankoiri.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
