@@ -6,31 +6,24 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:071A2B,45:123B5D,100:00C6D7&text=Hari%20Narayan%20Mahato%20Koiri&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Code%20Craft%20Nepal&descAlignY=62&descSize=16" width="100%" alt="Hari Narayan Mahato Koiri — Code Craft Nepal" />
 </p>
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Solutions;Full+Stack+%26+Enterprise+Application+Developer;SaaS+%7C+ERP+%7C+LMS+%7C+Cloud+Systems;Turning+Ideas+Into+Digital+Products" />`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Solutions;Full+Stack+%26+Enterprise+Application+Developer;SaaS+%7C+ERP+%7C+LMS+%7C+Cloud+Systems;Turning+Ideas+Into+Digital+Products" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/nebofficial">`{=html}
-`<img src="https://komarev.com/ghpvc/?username=nebofficial&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/nebofficial?tab=followers">`{=html}
-`<img src="https://img.shields.io/github/followers/nebofficial?label=Followers&style=for-the-badge&color=blue" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/nebofficial?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Public%20Repositories-GitHub-black?style=for-the-badge&logo=github" />`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://github.com/nebofficial">
+<img src="https://komarev.com/ghpvc/?username=nebofficial&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</a>
+<a href="https://github.com/nebofficial?tab=followers">
+<img src="https://img.shields.io/github/followers/nebofficial?label=Followers&style=for-the-badge&color=blue" />
+</a>
+<a href="https://github.com/nebofficial?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
-```
-
-------------------------------------------------------------------------
-
+---
 ## 🚀 About Me
 
 I'm a software engineer and product-focused developer passionate about
@@ -59,9 +52,7 @@ My development philosophy goes beyond writing code. I focus on:
 
 **My goal:** Build reliable software products that make businesses
 smarter, faster, and more efficient.
-
-------------------------------------------------------------------------
-
+---
 ## 🏢 Professional Ecosystem
 
 **Code Craft Nepal Pvt. Ltd.**
@@ -73,40 +64,22 @@ technology solutions.
 -   💻 GitHub: https://github.com/nebofficial
 -   🌍 Portfolio: https://harinarayankoiri.com.np
 -   📝 Technical Blog: https://codecraftnepal.com/blog
-
-------------------------------------------------------------------------
-
+---
 ## 🧩 Core Engineering Domains
 
-  -----------------------------------------------------------------------
-  Domain                              Engineering Focus
-  ----------------------------------- -----------------------------------
-  SaaS Engineering                    Multi-tenant architecture,
-                                      subscriptions, RBAC
+| Domain | Engineering Focus |
+|---|---|
+| SaaS Engineering | Multi-tenant architecture, subscriptions, RBAC |
+| Enterprise Software | ERP, CRM, POS, Accounting |
+| Education Technology | LMS, School Management, Examination |
+| Healthcare Technology | Pharmacy, Inventory, Medicine Ordering |
+| Mobile Engineering | Android applications, cross-platform development |
+| Desktop Engineering | Offline-first applications, local agents |
+| AI Engineering | Gemini API, AI automation, intelligent workflows |
+| Infrastructure | Linux, Docker, Nginx, VPS, CI/CD |
+| System Integration | REST APIs, biometric devices, third-party services |
 
-  Enterprise Software                 ERP, CRM, POS, Accounting
-
-  Education Technology                LMS, School Management, Examination
-
-  Healthcare Technology               Pharmacy, Inventory, Medicine
-                                      Ordering
-
-  Mobile Engineering                  Android applications,
-                                      cross-platform development
-
-  Desktop Engineering                 Offline-first applications, local
-                                      agents
-
-  AI Engineering                      Gemini API, AI automation,
-                                      intelligent workflows
-
-  Infrastructure                      Linux, Docker, Nginx, VPS, CI/CD
-
-  System Integration                  REST APIs, biometric devices,
-                                      third-party services
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
+---
 
 ## 🖼️ Product Portfolio & Project Showcase
 
@@ -252,68 +225,51 @@ Exploring and developing digital platforms for:
 -   Cooperative Management.
 -   Inventory and Accounting.
 -   Customer Relationship Management.
-
-------------------------------------------------------------------------
-
+---
 ## ⚡ Technology Stack
 
 ### Frontend Engineering
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,angular,vue,tailwind,bootstrap,html,css" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,angular,vue,tailwind,bootstrap,html,css" />
 </p>
-```
+
 ### Backend Engineering
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,java" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,java" />
 </p>
-```
+
 ### Mobile & Desktop Engineering
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java" />
 </p>
-```
+
 ### Database & Storage
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,firebase" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,firebase" />
 </p>
-```
+
 ### DevOps & Infrastructure
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github,bash" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github,bash" />
 </p>
-```
+
 ### Development & Design Tools
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=vscode,figma,postman,arduino,framer" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,arduino,framer" />
 </p>
-```
-
-------------------------------------------------------------------------
-
+---
 ## 🧠 Advanced Engineering Capabilities
 
 ### System Architecture
@@ -358,9 +314,7 @@ Exploring and developing digital platforms for:
 -   Hikvision Attendance Integration
 -   Biometric Data Synchronization
 -   Third-Party API Integration
-
-------------------------------------------------------------------------
-
+---
 ## 🔬 Current Engineering Focus
 
   Area              Current Focus
@@ -372,26 +326,20 @@ Exploring and developing digital platforms for:
   Frontend          Next.js and TypeScript applications
   Infrastructure    Docker, Linux and production deployment
   Integration       Hardware, APIs and external services
-
-------------------------------------------------------------------------
-
+---
 ## 📈 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nebofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />`{=html}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebofficial&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nebofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebofficial&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nebofficial&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nebofficial&theme=tokyonight&hide_border=true" />
 </p>
-```
+
 ### Profile Metrics
 
 <p align="center">
@@ -405,57 +353,43 @@ Exploring and developing digital platforms for:
 
 ### Contribution Activity
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=nebofficial&theme=tokyo-night&hide_border=true&area=true" width="100%" />`{=html}
-```{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nebofficial&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
-```
+
 ### GitHub Achievements
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=nebofficial&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />`{=html}
-```{=html}
+
+<img src="https://github-profile-trophy.vercel.app/?username=nebofficial&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 </p>
-```
-
-------------------------------------------------------------------------
-
+---
 ## 🌐 Connect With Me
 
-```{=html}
 <p align="center">
-```
-`<a href="https://linkedin.com/in/harinarayanmahatokoiri9">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />`{=html}
-`</a>`{=html} `<a href="https://twitter.com/k_harinarayan">`{=html}
-`<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x" />`{=html}
-`</a>`{=html}
-`<a href="https://www.youtube.com/c/codecraftnepal">`{=html}
-`<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />`{=html}
-`</a>`{=html} `<a href="https://github.com/nebofficial">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://linkedin.com/in/harinarayanmahatokoiri9">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a> <a href="https://twitter.com/k_harinarayan">
+<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x" />
+</a>
+<a href="https://www.youtube.com/c/codecraftnepal">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
+</a> <a href="https://github.com/nebofficial">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
+
 🌍 Portfolio:
-`<a href="https://harinarayankoiri.com.np">`{=html}harinarayankoiri.com.np`</a>`{=html}
-`<br/>`{=html} 🏢 Company:
-`<a href="https://codecraftnepal.com">`{=html}Code Craft
-Nepal`</a>`{=html}
-```{=html}
+<a href="https://harinarayankoiri.com.np">harinarayankoiri.com.np</a>
+<br/> 🏢 Company:
+<a href="https://codecraftnepal.com">Code Craft
+Nepal</a>
 </p>
-```
-
-------------------------------------------------------------------------
-
+---
 ## 💡 Engineering Philosophy
 
 > Great software is not just about writing code. It is about designing
@@ -464,10 +398,7 @@ Nepal`</a>`{=html}
 
 **Think Architecturally. Engineer Intelligently. Build for Scale.** 🚀
 
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" width="100%" />`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" width="100%" />
 </p>
-```
