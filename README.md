@@ -1,48 +1,473 @@
-<h1 align="center">Hi 👋, I'm Hari Narayan Mahato Koiri</h1>
-<h3 align="center">I am a passionate Full Stack Developer with expertise in building scalable web applications,Android and Desktop Software . I specialize in JavaScript, Python, React, Node.js, Django, MySQL, MongoDB, and more. I love solving complex problems, creating innovative solutions, and contributing to the open-source community.</h3>
+# 👨‍💻 Hari Narayan Mahato Koiri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebofficial&label=Profile%20views&color=0e75b6&style=flat" alt="nebofficial" /> </p>
+### Software Engineer • Full Stack Developer • SaaS Architect • Technology Entrepreneur
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nebofficial" alt="nebofficial" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/k_harinarayan" target="blank"><img src="https://img.shields.io/twitter/follow/k_harinarayan?logo=twitter&style=for-the-badge" alt="k_harinarayan" /></a> </p>
-
-- 🔭 I’m currently working on [NEB Official App](https://file.nebofficial.com/)
--  🔭 I’m currently working on [School Management System with auto Sync cloud/Sql server Desktop Software ]
-
-- 🌱 I’m currently learning **Mean and Mern FullStack**
-
-- 👯 I’m looking to collaborate on [Public English Boarding School Pvt.Ltd](https://publicenglishboardingschool.com/)
-
-- 🤝 I’m looking for help with SmartSchool Sync is a hybrid school management system designed to operate both offline and online seamlessly. The system ensures that all student, teacher, and administrative data is stored locally when offline and automatically synchronizes with the central server when an internet connection is available. [School Management System](https://system.publicenglishboardingschool.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/nebofficial](https://github.com/nebofficial)
-
-- 📝 I regularly write articles on [https://codecraftnepal.com/blog](https://codecraftnepal.com/blog)
-
-- 💬 Ask me about **Mean and Mern FullStack**
-
-- 📫 How to reach me **codecraftnepal.com**
-
-- 📄 Know about my experiences [My Portfolio](https://harinarayankoiri.com.np)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/k_harinarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_harinarayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harinarayanmahatokoiri9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harinarayanmahatokoiri9" height="30" width="40" /></a>
-<a href="https://fb.com/mkteach762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mkteach762" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/harinarayan9815285703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harinarayan9815285703/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codecraftnepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codecraftnepal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harinarayan703" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harinarayan703" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/k_harinarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="k_harinarayan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harinarayanmj0v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harinarayanmj0v9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:071A2B,45:123B5D,100:00C6D7&text=Hari%20Narayan%20Mahato%20Koiri&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=Software%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Code%20Craft%20Nepal&descAlignY=62&descSize=16" width="100%" alt="Hari Narayan Mahato Koiri — Code Craft Nepal" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Solutions;Full+Stack+%26+Enterprise+Application+Developer;SaaS+%7C+ERP+%7C+LMS+%7C+Cloud+Systems;Turning+Ideas+Into+Digital+Products" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/nebofficial">`{=html}
+`<img src="https://komarev.com/ghpvc/?username=nebofficial&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/nebofficial?tab=followers">`{=html}
+`<img src="https://img.shields.io/github/followers/nebofficial?label=Followers&style=for-the-badge&color=blue" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/nebofficial?tab=repositories">`{=html}
+`<img src="https://img.shields.io/badge/Public%20Repositories-GitHub-black?style=for-the-badge&logo=github" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebofficial&show_icons=true&locale=en&layout=compact" alt="nebofficial" /></p>
+------------------------------------------------------------------------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebofficial&show_icons=true&locale=en" alt="nebofficial" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebofficial&" alt="nebofficial" /></p>
+I'm a software engineer and product-focused developer passionate about
+engineering scalable digital solutions that solve real-world business
+problems.
+
+I specialize in designing and developing end-to-end software ecosystems,
+including enterprise applications, multi-tenant SaaS platforms,
+education technology, business automation systems, mobile applications,
+desktop software, and cloud infrastructure.
+
+Working with **Code Craft Nepal Pvt. Ltd.**, I focus on converting
+business ideas into production-oriented digital products through modern
+technologies, robust architecture, and practical engineering.
+
+My development philosophy goes beyond writing code. I focus on:
+
+-   Designing scalable and maintainable system architectures.
+-   Developing secure REST APIs and backend services.
+-   Building responsive and high-performance frontend applications.
+-   Engineering multi-tenant SaaS platforms.
+-   Implementing offline-first and cloud synchronization architectures.
+-   Integrating AI services and third-party APIs.
+-   Managing Linux servers, deployment, and production infrastructure.
+-   Optimizing databases and application performance.
+
+**My goal:** Build reliable software products that make businesses
+smarter, faster, and more efficient.
+
+------------------------------------------------------------------------
+
+## 🏢 Professional Ecosystem
+
+**Code Craft Nepal Pvt. Ltd.**
+
+Building digital products, enterprise software, and customized
+technology solutions.
+
+-   🌐 Website: https://codecraftnepal.com
+-   💻 GitHub: https://github.com/nebofficial
+-   🌍 Portfolio: https://harinarayankoiri.com.np
+-   📝 Technical Blog: https://codecraftnepal.com/blog
+
+------------------------------------------------------------------------
+
+## 🧩 Core Engineering Domains
+
+  -----------------------------------------------------------------------
+  Domain                              Engineering Focus
+  ----------------------------------- -----------------------------------
+  SaaS Engineering                    Multi-tenant architecture,
+                                      subscriptions, RBAC
+
+  Enterprise Software                 ERP, CRM, POS, Accounting
+
+  Education Technology                LMS, School Management, Examination
+
+  Healthcare Technology               Pharmacy, Inventory, Medicine
+                                      Ordering
+
+  Mobile Engineering                  Android applications,
+                                      cross-platform development
+
+  Desktop Engineering                 Offline-first applications, local
+                                      agents
+
+  AI Engineering                      Gemini API, AI automation,
+                                      intelligent workflows
+
+  Infrastructure                      Linux, Docker, Nginx, VPS, CI/CD
+
+  System Integration                  REST APIs, biometric devices,
+                                      third-party services
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🖼️ Product Portfolio & Project Showcase
+
+A quick visual index of the software products and platforms I work on. Add real screenshots to the repository under `assets/projects/` and update the image paths below when those screenshots are ready.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://system.publicenglishboardingschool.com/">
+        <img src="assets/projects/smartschool-sync.png" width="100%" alt="SmartSchool Sync project screenshot" />
+        <br /><strong>SmartSchool Sync</strong>
+      </a>
+      <br />Offline-first school management and cloud synchronization
+    </td>
+    <td align="center" width="50%">
+      <a href="https://file.nebofficial.com/">
+        <img src="assets/projects/advschoolms.png" width="100%" alt="AdvSchoolMS project screenshot" />
+        <br /><strong>AdvSchoolMS</strong>
+      </a>
+      <br />School administration and academic management
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/projects/lms.png" width="100%" alt="Learning Management System screenshot" />
+      <br /><strong>Learning Management System</strong>
+      <br />Courses, assessments, learning resources and progress
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/projects/medigo-nepal.png" width="100%" alt="Medigo Nepal project screenshot" />
+      <br /><strong>Medigo Nepal</strong>
+      <br />Pharmacy operations and medicine ordering
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/projects/printpress.png" width="100%" alt="PrintPress project screenshot" />
+      <br /><strong>PrintPress</strong>
+      <br />Printing, production, inventory and online ordering
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/projects/cooperative-system.png" width="100%" alt="Cooperative banking system screenshot" />
+      <br /><strong>Cooperative Banking System</strong>
+      <br />Member, deposit, loan and accounting workflows
+    </td>
+  </tr>
+</table>
+
+> **Screenshot setup:** Create an `assets/projects/` folder in your profile repository and add screenshots using the filenames shown above. Until those images are uploaded, the project image areas will show as unavailable. Replace demo links with the public live URLs or repositories you want visitors to access.
+
+---
+
+## 🏗️ Featured Product Engineering
+
+### 01. SmartSchool Sync
+
+**Hybrid Offline & Cloud School Management Architecture**
+
+Building a school management ecosystem that supports uninterrupted
+operations with local data storage and automatic cloud synchronization.
+
+-   Offline-first data architecture.
+-   Desktop-based synchronization agent.
+-   Local SQL database.
+-   Centralized cloud backend.
+-   Multi-school tenant isolation.
+-   Attendance device integration.
+-   Automatic synchronization workflows.
+
+### 02. AdvSchoolMS
+
+**Advanced School Management SaaS**
+
+A comprehensive digital platform for academic and administrative
+operations.
+
+-   Student and teacher management.
+-   Attendance and examination.
+-   Fees and financial management.
+-   Parent and student portals.
+-   Academic reporting.
+-   Role-based access control.
+-   Multi-school management.
+
+### 03. Learning Management System
+
+**Digital Learning & Academic Platform**
+
+-   Course and lesson management.
+-   Video-based learning.
+-   Quiz and assessment engine.
+-   Online classroom integration.
+-   Learning resources.
+-   Student performance tracking.
+-   AI-assisted educational workflows.
+
+### 04. Medigo Nepal
+
+**Pharmacy & Healthcare Commerce Ecosystem**
+
+-   Medicine catalog management.
+-   Pharmacy inventory.
+-   Purchase and sales.
+-   Order processing.
+-   Pharmacy assignment.
+-   Delivery management.
+-   Customer management.
+-   Business analytics.
+
+### 05. PrintPress
+
+**Printing & Branding Business Management**
+
+-   Customer management.
+-   Product and service catalog.
+-   Online product customization.
+-   Quotation and order management.
+-   Production workflows.
+-   Materials and inventory.
+-   POS and billing.
+-   Delivery and financial reporting.
+
+### 06. Cooperative Banking System
+
+**Member & Financial Management Platform**
+
+-   Member registration and KYC.
+-   Deposit management.
+-   Loan application and approval.
+-   EMI scheduling.
+-   Interest calculations.
+-   General ledger and accounting.
+-   Admin and member dashboards.
+
+### 07. Business Automation & SaaS Products
+
+Exploring and developing digital platforms for:
+
+-   Restaurant Management Systems.
+-   Pharmacy Management Systems.
+-   POS and Retail Management.
+-   Social Media Automation.
+-   Cooperative Management.
+-   Inventory and Accounting.
+-   Customer Relationship Management.
+
+------------------------------------------------------------------------
+
+## ⚡ Technology Stack
+
+### Frontend Engineering
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,angular,vue,tailwind,bootstrap,html,css" />`{=html}
+```{=html}
+</p>
+```
+### Backend Engineering
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,java" />`{=html}
+```{=html}
+</p>
+```
+### Mobile & Desktop Engineering
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java" />`{=html}
+```{=html}
+</p>
+```
+### Database & Storage
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,firebase" />`{=html}
+```{=html}
+</p>
+```
+### DevOps & Infrastructure
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github,bash" />`{=html}
+```{=html}
+</p>
+```
+### Development & Design Tools
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=vscode,figma,postman,arduino,framer" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🧠 Advanced Engineering Capabilities
+
+### System Architecture
+
+-   Multi-Tenant SaaS Architecture
+-   Modular Monolithic Architecture
+-   RESTful API Architecture
+-   Offline-First Architecture
+-   Client-Server Architecture
+-   Microservices Concepts
+-   Event-Driven Workflows
+
+### Backend & Database Engineering
+
+-   Database Schema Design
+-   Relational Database Modeling
+-   Query Optimization
+-   Database Indexing
+-   Connection Pool Management
+-   Authentication & Authorization
+-   API Security
+-   Background Job Processing
+
+### Cloud & DevOps
+
+-   Linux Server Administration
+-   Dockerized Applications
+-   Nginx Reverse Proxy
+-   Apache Configuration
+-   PM2 Process Management
+-   SSL & DNS Management
+-   Production Deployment
+-   Server Monitoring
+-   Automated Backup Strategies
+
+### Integration Engineering
+
+-   Google Gemini API
+-   Zoom API Integration
+-   YouTube Integration
+-   Payment Gateway Integration
+-   Hikvision Attendance Integration
+-   Biometric Data Synchronization
+-   Third-Party API Integration
+
+------------------------------------------------------------------------
+
+## 🔬 Current Engineering Focus
+
+  Area              Current Focus
+  ----------------- -----------------------------------------
+  SaaS              Scalable multi-tenant platforms
+  AI                AI-powered business automation
+  Synchronization   Offline-to-cloud data synchronization
+  Backend           Node.js and PostgreSQL optimization
+  Frontend          Next.js and TypeScript applications
+  Infrastructure    Docker, Linux and production deployment
+  Integration       Hardware, APIs and external services
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nebofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />`{=html}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebofficial&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nebofficial&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
+</p>
+```
+### Profile Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nebofficial&theme=tokyonight" width="100%" alt="GitHub profile contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nebofficial&theme=tokyonight&utcOffset=5.75" width="49%" alt="Most productive coding time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nebofficial&theme=tokyonight" width="49%" alt="Repositories by language" />
+</p>
+
+### Contribution Activity
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=nebofficial&theme=tokyo-night&hide_border=true&area=true" width="100%" />`{=html}
+```{=html}
+</p>
+```
+### GitHub Achievements
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=nebofficial&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/harinarayanmahatokoiri9">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />`{=html}
+`</a>`{=html} `<a href="https://twitter.com/k_harinarayan">`{=html}
+`<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x" />`{=html}
+`</a>`{=html}
+`<a href="https://www.youtube.com/c/codecraftnepal">`{=html}
+`<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />`{=html}
+`</a>`{=html} `<a href="https://github.com/nebofficial">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+🌍 Portfolio:
+`<a href="https://harinarayankoiri.com.np">`{=html}harinarayankoiri.com.np`</a>`{=html}
+`<br/>`{=html} 🏢 Company:
+`<a href="https://codecraftnepal.com">`{=html}Code Craft
+Nepal`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 💡 Engineering Philosophy
+
+> Great software is not just about writing code. It is about designing
+> systems, solving problems, building reliable products, and creating
+> meaningful impact.
+
+**Think Architecturally. Engineer Intelligently. Build for Scale.** 🚀
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" width="100%" />`{=html}
+```{=html}
+</p>
+```
